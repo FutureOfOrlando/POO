@@ -28,3 +28,9 @@ La pagina es sencilla tal cual se muestra en la siguiente imagen:
 
 
 ## Instalación de git. conectado a tu cuenta de GitHub y VSC.
+Instalar git es algo diferente de los dos anteriores puesto que en este se tiene que leer atentamente a lo que te dice el asistente instalador, ya que sera importante en el funcionamiento del programa. Para instalar git primero se tiene que ir a la pagina donde se descarga, la cual es:
+[Pagina.](https://git-scm.com/downloads)
+
+La pagina tiene el siguiente dseño:
+
+
