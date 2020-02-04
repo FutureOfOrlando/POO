@@ -19,7 +19,12 @@ Posteriormente solo se tiene que seguir las instrucciones del asistente instalad
 
 
 ## Instalación y configuración de Visual Studio Code para C#.
+La instalación de visual studio code es relatvamente sencilla,
+solo tenemos que bajar el instalador de la pagina de microsoft:
+[Pagina.](https://code.visualstudio.com/)
 
+La pagina es sencilla tal cual se muestra en la siguiente imagen:
+![Imagen](https://github.com/FutureOfOrlando/POO/blob/master/Captura2.PNG "Imagen del sitio")
 
 
 ## Instalación de git. conectado a tu cuenta de GitHub y VSC.
