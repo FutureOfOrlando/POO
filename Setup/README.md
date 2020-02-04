@@ -9,9 +9,10 @@ del link:
 Es necesario descargar el SDK debido a que **vamos a programar**
 
 La pagina se ve así:
-![Imagen]()
+![Imagen](https://github.com/FutureOfOrlando/POO/blob/master/Captura.PNG "Imagen del sitio")
 
 
+Posteriormente solo se tiene que seguir las instrucciones del asistente instalador y automaticamente se instalara dotnet core
 
 
 
