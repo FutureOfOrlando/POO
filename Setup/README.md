@@ -32,5 +32,5 @@ Instalar git es algo diferente de los dos anteriores puesto que en este se tiene
 [Pagina.](https://git-scm.com/downloads)
 
 La pagina tiene el siguiente dseño:
-
+![Imagen](https://github.com/FutureOfOrlando/POO/blob/master/Captura3.PNG "Imagen del sitio")
 
