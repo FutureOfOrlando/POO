@@ -17,7 +17,6 @@ Posteriormente solo se tiene que seguir las instrucciones del asistente instalad
 
 
 
-
 ## Instalación y configuración de Visual Studio Code para C#.
 La instalación de visual studio code es relatvamente sencilla,
 solo tenemos que bajar el instalador de la pagina de microsoft:
