@@ -33,3 +33,7 @@ Instalar git es algo diferente de los dos anteriores puesto que en este se tiene
 La pagina tiene el siguiente dseño:
 ![Imagen](https://github.com/FutureOfOrlando/POO/blob/master/img/Captura3.PNG "Imagen del sitio")
 
+
+Ahora bien instalar github desktop es algo similar a todos los programas este es el que enlazaremos con nuestra cuenta de github en internet.
+Después de eso es cuestión de iniciar seción en desktop y clonar el repositorio en nuestra maquina y seria todo.
+
