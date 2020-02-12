@@ -9,7 +9,7 @@ del link:
 Es necesario descargar el SDK debido a que **vamos a programar**
 
 La pagina se ve así:
-![Imagen](https://github.com/FutureOfOrlando/POO/blob/master/Captura.PNG "Imagen del sitio")
+![Imagen](https://github.com/FutureOfOrlando/POO/blob/master/img/Captura.PNG "Imagen del sitio")
 
 
 Posteriormente solo se tiene que seguir las instrucciones del asistente instalador y automaticamente se instalara dotnet core
@@ -24,7 +24,7 @@ solo tenemos que bajar el instalador de la pagina de microsoft:
 [Pagina.](https://code.visualstudio.com/)
 
 La pagina es sencilla tal cual se muestra en la siguiente imagen:
-![Imagen](https://github.com/FutureOfOrlando/POO/blob/master/Captura2.PNG "Imagen del sitio")
+![Imagen](https://github.com/FutureOfOrlando/POO/blob/master/img/Captura2.PNG "Imagen del sitio")
 
 
 ## Instalación de git. conectado a tu cuenta de GitHub y VSC.
@@ -32,5 +32,5 @@ Instalar git es algo diferente de los dos anteriores puesto que en este se tiene
 [Pagina.](https://git-scm.com/downloads)
 
 La pagina tiene el siguiente dseño:
-![Imagen](https://github.com/FutureOfOrlando/POO/blob/master/Captura3.PNG "Imagen del sitio")
+![Imagen](https://github.com/FutureOfOrlando/POO/blob/master/img/Captura3.PNG "Imagen del sitio")
 
