@@ -17,3 +17,5 @@ Ciclo. Ene-Jun 2020
 ## Actividades: 
 [Actividad 1](./Setup/README.md)
 
+
+[Actividad 2](./Pelicula/Program.cs)
