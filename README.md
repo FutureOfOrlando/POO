@@ -18,4 +18,7 @@ Ciclo. Ene-Jun 2020
 [Actividad 1](./Setup/README.md)
 
 
-[Actividad 2](./Pelicula/Program.cs)
+[Actividad 2: Películas](./Pelicula/Program.cs)
+
+
+[Actividad 3: Lista de Películas](./ListaPeliculas/Program.cs)
