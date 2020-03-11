@@ -1,12 +1,12 @@
 
 # Ejercicio UML1
 Agrega la cardinalidad o multiplicidad para las asociaciones del siguiente diagrama de clases, justifica tus decisiones:
-![Imagen1](./Ejercicios UML/Cardi.PNG)
+[Imagen1](./Ejercicios UML/Cardi.PNG)
 
 
 # Ejercicio UML2
 Completa los tipos de asociación (Agregación y Composición) y multiplicidad que hay entre las clases siguientes y explica porque es de ese tipo.
-![Imagen2](./Ejercicios UML/Cardi2.PNG)
+[Imagen2](./Ejercicios UML/Cardi2.PNG)
 
 
 # Ejercicio UML3
@@ -21,4 +21,4 @@ se consideran como el mismo libro.
 
 OPCIONAL: Podemos indicar si un libro se lo prestamos a un amigo, desde que fecha y
 tenemos su correo para recordarle que nos lo regrese.
-![Imagen3](./Ejercicios UML/Cardi3.PNG)
+[Imagen3](./Ejercicios UML/Cardi3.PNG)
