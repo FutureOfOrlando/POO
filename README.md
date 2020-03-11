@@ -27,4 +27,4 @@ Ciclo. Ene-Jun 2020
 [Actividad 4: Actores](./Actores/Program.cs)
 
 
-[Actividad 5: Actores](https://github.com/FutureOfOrlando/POO/blob/master/Ejercicios%20UML/README.md)
+[Actividad 5: Ejercicios UML](https://github.com/FutureOfOrlando/POO/blob/master/Ejercicios%20UML/README.md)
