@@ -72,7 +72,7 @@ namespace FiguraInterfaz
 
             foreach(var d in figuras){
             d.Dibuja();
-            d.PrintColor();}
+}
             
         }
     }
